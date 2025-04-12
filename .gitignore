@@ -1,0 +1,23 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+
+# Maven target directory
+target/
+
+# Node.js modules (if applicable)
+node_modules/
+
+# Logs and temp files
+*.log
+*.swp
+*.bak
+
+# Other files you don't want to commit
+*.properties
+*.yml
+*.json
